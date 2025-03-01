@@ -1,5 +1,3 @@
-# pip install mmh3
-
 import mmh3
 
 
